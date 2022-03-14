@@ -5,8 +5,8 @@
 #pylint: disable=import-error
 
 
-ml10m = '/home/zhengyu/workspace/DICE/data/ml10m/output/'
-nf = '/home/zhengyu/workspace/DICE/data/netflix/output/'
+ml10m = '../data/ml10m/output/'
+nf = '../data/netflix/output/'
 
 coo_record = 'coo_record.npz'
 train_coo_record = 'train_coo_record.npz'
